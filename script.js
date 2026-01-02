@@ -1,3 +1,4 @@
 setTimeout(() => {
-    window.location.href = "balakonaMenu.pdf";
+    window.location.href = "menu.pdf";
 }, 2000);
+
